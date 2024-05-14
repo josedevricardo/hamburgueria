@@ -53,4 +53,4 @@ Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) par
 
 ---
 
-Esse é um exemplo básico de um LEIA-ME para um projeto de hamburgueria utilizando Node.js e JSON. Sinta-se à vontade para personalizá-lo de acordo com as necessidades do seu projeto!
+Projeto de hamburgueria utilizando Node.js e JSON. Sinta-se à vontade para personalizá-lo de acordo com as necessidades do seu projeto!
