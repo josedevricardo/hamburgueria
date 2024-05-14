@@ -33,10 +33,10 @@ Isso iniciará o servidor e você poderá acessar a aplicação através do nave
 
 ## Estrutura do Projeto
 
-- `index.js`: Arquivo principal que contém a lógica do servidor.
-- `data/`: Diretório contendo os arquivos JSON com os dados da hamburgueria.
+- `app.js`: Arquivo principal que contém a lógica do servidor.
+- `package-lock`: Diretório contendo os arquivos JSON com os dados da hamburgueria.
 - `routes/`: Diretório contendo os arquivos responsáveis pelas rotas da aplicação.
-- `controllers/`: Diretório contendo os controladores das rotas.
+
 
 ## Contribuição
 
